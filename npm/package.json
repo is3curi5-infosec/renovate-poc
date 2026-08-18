@@ -2,6 +2,5 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "axios": "^1.6.0"
-    "litellm": ">4.2.0"
   }
 }
